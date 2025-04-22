@@ -16,7 +16,13 @@ This is a simple machine learning web application built with **Flask** that dete
 
 Make sure you have **Python 3.7+** installed.
 
+```bash
+git clone https://github.com/Yukesh-yukii/Fake-news-detection.git
+cd fake-news-detector
+```
+
 To install all required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
